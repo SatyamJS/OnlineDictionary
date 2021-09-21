@@ -3,7 +3,7 @@
     margin:0px;
     padding:0px;
 --primary-color:#0096FF;
-font-family: 'Caveat', cursive;
+font-family: Geneva, Verdana, sans-serif;
 }
 body::before{
     content: "";
@@ -29,7 +29,7 @@ body::before{
     border-radius:5px;
     display: flex;
     flex-direction: column;
-    padding:15px;
+    padding:10px;
     background-color: rgba(223, 230, 233, 1);
 }
 .logo{
